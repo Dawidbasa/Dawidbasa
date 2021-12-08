@@ -35,6 +35,7 @@
 ## Groups & Blogs
 
 * Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
 * UTest community
 
 ## My Projects
