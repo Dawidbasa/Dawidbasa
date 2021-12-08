@@ -32,11 +32,9 @@
 
 * R.Smilgin - Zawód tester
 
-## Groups for knowledge gathering
+## Groups & Blogs
 
 * Tester oprogramowania - wsparcie na starcie
 * UTest community
-
-## Blogs
 
 ## My Projects
