@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @Dawidbasa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Portfolio
 
-<!---
-Dawidbasa/Dawidbasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me
+
+## Tools:
+
+* Eclipse, IntelliJ IDEA
+* Postman
+* Trello, Jira
+* Github
+
+## Tech skills
+
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Creating diagrams and decision tables
+* SQL
+
+## Courses 
+
+* Udemy: Software Testing Masterclass 2021
+* Udemy: The Complete Software Testing Bootcamp 2021
+* Udemy: Introduction to Databases and SQL Querying
+* UTest: The entire academy with test cycles
+
+## Certificates
+
+* ISTQB Certified Tester Foundation Level No. 017170/CTFL/2021
+
+## Technical Books read
+
+* R.Smilgin - Zawód tester
+
+## Groups for knowledge gathering
+
+* Tester oprogramowania - wsparcie na starcie
+* UTest community
+
+## Blogs
+
+## My Projects
