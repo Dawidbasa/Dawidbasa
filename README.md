@@ -40,7 +40,7 @@
 
 ## My Projects
 
-1. eBay.pl - Project contains test cases and exploratory session results.
+1. **eBay.pl** - Project contains test cases and exploratory session results.
    - Total TC	52
    - Passed TC	47
    - Bugs 	8
