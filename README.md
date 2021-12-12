@@ -41,6 +41,6 @@
 ## My Projects
 
 * eBay.pl - Project contains test cases and exploratory session.
-Bugs detected - 8
-Test cases    - 52
-Link: https://trello.com/b/AJMnaL61/ebaypl
+- Bugs detected - 8
+- Test cases    - 52
+- Link: https://trello.com/b/AJMnaL61/ebaypl
