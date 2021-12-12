@@ -28,7 +28,7 @@
 
 * ISTQB Certified Tester Foundation Level No. 017170/CTFL/2021
 
-## Technical Books read
+## Technical Books
 
 * R.Smilgin - Zawód tester
 
