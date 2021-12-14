@@ -5,7 +5,6 @@
 ## Tools:
 
 * Eclipse, IntelliJ IDEA
-* Postman
 * Trello, Jira
 * Github
 
