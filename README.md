@@ -40,10 +40,8 @@
 
 ## My Projects
 
-1. eBay.pl - Project contains test cases and exploratory session.
-  
-  - Link: https://trello.com/b/AJMnaL61/ebaypl
-  - Total TC	52
-  - Passed TC	47
-  - Bugs 	8
-
+1. **eBay.pl** - Project contains test cases and exploratory session results.
+   - Total TC - 52
+   - Passed TC - 47
+   - Bugs - 8
+   - Link: https://trello.com/b/AJMnaL61/ebaypl
