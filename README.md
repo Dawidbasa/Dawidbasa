@@ -2,33 +2,6 @@
 
 ## About me
 
-## FREELANCE JOBS
-
-* OLX
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
-
-* King.com
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
-
-* Avon
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
-
-* University of Gloucestershire
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
-
-* Toyota
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
-
 ## Tools:
 
 * Eclipse, IntelliJ IDEA
@@ -64,6 +37,29 @@
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 * UTest community
+
+## FREELANCE JOBS
+
+* OLX
+  - Exploratory testing
+  - Functional testing
+  - Test reporting
+* King.com
+  - Exploratory testing
+  - Functional testing
+  - Test reporting
+* Avon
+  - Exploratory testing
+  - Functional testing
+  - Test reporting
+* University of Gloucestershire
+  - Exploratory testing
+  - Functional testing
+  - Test reporting
+* Toyota
+  - Exploratory testing
+  - Functional testing
+  - Test reporting
 
 ## My Projects
 
