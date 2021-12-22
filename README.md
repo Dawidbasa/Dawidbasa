@@ -39,7 +39,7 @@
 * UTest community
 * HackerRank - MYSQL challenges
 
-## FREELANCE JOBS
+## Freelance jobs
 
   1. Exploratory testing
   2. Functional testing
