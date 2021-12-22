@@ -37,7 +37,7 @@
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 * UTest community
-
+* HackerRank - MYSQL challenges
 ## FREELANCE JOBS
 
   1. Exploratory testing
