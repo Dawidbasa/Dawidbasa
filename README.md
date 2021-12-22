@@ -60,7 +60,10 @@
   - Exploratory testing
   - Functional testing
   - Test reporting
-
+* Digivante Website
+  - Exploratory testing
+  - Functional testing
+  - Test reporting
 ## My Projects
 
 1. **eBay.pl** - Project contains test cases and exploratory session results.
