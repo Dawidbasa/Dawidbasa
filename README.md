@@ -40,30 +40,17 @@
 
 ## FREELANCE JOBS
 
-* OLX
   - Exploratory testing
   - Functional testing
   - Test reporting
-* King.com
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
-* Avon
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
-* University of Gloucestershire
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
-* Toyota
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
-* Digivante Website
-  - Exploratory testing
-  - Functional testing
-  - Test reporting
+
+* OLX 10.2021
+* King.com 10.2021
+* Toyota 11.2021
+* Avon 12.2021
+* University of Gloucestershire 12.2021
+* Digivante Website 12.2021
+
 ## My Projects
 
 1. **eBay.pl** - Project contains test cases and exploratory session results.
