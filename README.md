@@ -58,4 +58,5 @@
    - Total TC - 52
    - Passed TC - 47
    - Bugs - 8
-   - Link: https://trello.com/b/AJMnaL61/ebaypl
+   - [Link to Trello](https://trello.com/b/AJMnaL61/ebaypl)
+
