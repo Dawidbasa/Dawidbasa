@@ -60,9 +60,9 @@
    [Test cases](https://docs.google.com/spreadsheets/d/1mouaoO4Jh4k6fMDq0g04VXsEPkaRp8Vv5vdfyMweUqc/edit?usp=sharing)  
    [Test reaport](https://docs.google.com/document/d/1KoO6kzOZF0YY0_obgzMgfSshqdDt7b7iogSI7sZEPa8/edit)  
  
-   - Total TC - 52
-   - Passed TC - 47
-   - Bugs - 8
+ - Total TC - 52
+ - Passed TC - 47
+ - Bugs - 8
 
 
 
