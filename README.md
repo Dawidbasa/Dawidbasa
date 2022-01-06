@@ -44,6 +44,7 @@
   Exploratory testing  
   Functional testing  
   Test reporting  
+  Test cases
 
 * OLX 10.2021
 * King.com 10.2021
