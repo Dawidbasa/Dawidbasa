@@ -41,9 +41,9 @@
 
 ## Freelance jobs
 
-  1. Exploratory testing
-  2. Functional testing
-  3. Test reporting
+  Exploratory testing  
+  Functional testing  
+  Test reporting  
 
 * OLX 10.2021
 * King.com 10.2021
