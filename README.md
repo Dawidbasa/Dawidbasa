@@ -42,19 +42,15 @@
 
 ## Freelance jobs
 
-<<<<<<< HEAD
-  1. Exploratory testing
-  2. Test case execution
-  3. Test reporting
-  4. Reproducion bugs found by other testers
-  5. Communication with Team leaders. 
-=======
-  Exploratory testing  
-  Functional testing  
-  Test reporting  
-  Test cases
->>>>>>> a38029a92e0ab2905920985516fbc0d25347c4a7
+Tasks:
+1. Exploratory testing
+2. Test case execution
+3. Test reporting
+4. Reproducion bugs found by other testers
+5. Communication with Team leaders. 
 
+
+Projects:
 * OLX 10.2021
 * King.com 10.2021 (Android app)
 * Toyota 11.2021
