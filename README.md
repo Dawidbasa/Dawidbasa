@@ -42,11 +42,18 @@
 
 ## Freelance jobs
 
+<<<<<<< HEAD
   1. Exploratory testing
   2. Test case execution
   3. Test reporting
   4. Reproducion bugs found by other testers
   5. Communication with Team leaders. 
+=======
+  Exploratory testing  
+  Functional testing  
+  Test reporting  
+  Test cases
+>>>>>>> a38029a92e0ab2905920985516fbc0d25347c4a7
 
 * OLX 10.2021
 * King.com 10.2021 (Android app)
@@ -62,13 +69,13 @@
 
 1. **eBay.pl** - Project contains test cases and exploratory session results.
 
-   [Link to Trello](https://trello.com/b/AJMnaL61/ebaypl)
-   [Test cases](https://docs.google.com/spreadsheets/d/1mouaoO4Jh4k6fMDq0g04VXsEPkaRp8Vv5vdfyMweUqc/edit?usp=sharing)
-   [Test reaport](https://docs.google.com/document/d/1KoO6kzOZF0YY0_obgzMgfSshqdDt7b7iogSI7sZEPa8/edit)
- 
-   - Total TC - 52
-   - Passed TC - 47
-   - Bugs - 8
+  [Project managment tool - Trello](https://trello.com/b/AJMnaL61/ebaypl)  
+  [Test cases](https://docs.google.com/spreadsheets/d/1mouaoO4Jh4k6fMDq0g04VXsEPkaRp8Vv5vdfyMweUqc/edit?usp=sharing)  
+  [Test reaport](https://docs.google.com/document/d/1KoO6kzOZF0YY0_obgzMgfSshqdDt7b7iogSI7sZEPa8/edit)  
+    
+    Total TC - 52
+    Passed TC - 47
+    Bugs - 8
 
 
 
