@@ -31,6 +31,7 @@
 ## Technical Books
 
 * R.Smilgin - Zawód tester
+* Adam Roman - Testowanie i jakość oprogramowania
 
 ## Groups & Blogs
 
@@ -42,15 +43,20 @@
 ## Freelance jobs
 
   1. Exploratory testing
-  2. Functional testing
+  2. Test case execution
   3. Test reporting
+  4. Reproducion bugs found by other testers
+  5. Communication with Team leaders. 
 
 * OLX 10.2021
-* King.com 10.2021
+* King.com 10.2021 (Android app)
 * Toyota 11.2021
 * Avon 12.2021
 * University of Gloucestershire 12.2021
-* Digivante Website 12.2021
+* Digivante 12.2021
+* Audi 1.2022 
+* Expensify 1.2022 (Android app)
+
 
 ## My Projects
 
