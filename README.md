@@ -50,17 +50,6 @@ Tasks:
 5. Communication with Team leaders. 
 
 
-Projects:
-* OLX 10.2021
-* King.com 10.2021 (Android app)
-* Toyota 11.2021
-* Avon 12.2021
-* University of Gloucestershire 12.2021
-* Digivante 12.2021
-* Audi 1.2022 
-* Expensify 1.2022 (Android app)
-
-
 ## My Projects
 
 1. **eBay.pl** - Project contains test cases and exploratory session results.
